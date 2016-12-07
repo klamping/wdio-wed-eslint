@@ -1,4 +1,4 @@
 # wdio-wed-eslint
 
 Repo for this screencast:
-TBD
+https://youtu.be/HS5Nq2kKajA
